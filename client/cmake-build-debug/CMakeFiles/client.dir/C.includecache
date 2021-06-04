@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mhdi/Desktop/Personal/university/BP/project/client/cJSON.h
+stddef.h
+-
+
+C:/Users/mhdi/Desktop/Personal/university/BP/project/client/main.c
+stdio.h
+-
+winsock2.h
+-
+string.h
+-
+windows.h
+-
+cJSON.h
+C:/Users/mhdi/Desktop/Personal/university/BP/project/client/cJSON.h
+unistd.h
+-
+stdlib.h
+-
+
